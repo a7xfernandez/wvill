@@ -9,12 +9,12 @@ L.DrawToolbar = L.Toolbar.extend({
 	},
 
 	options: {
-		polyline: {},
+		//polyline: {},
 		polygon: {},
-		rectangle: {},
-		circle: {},
-		marker: {},
-		circlemarker: {}
+		//rectangle: {},
+		//circle: {},
+		marker: {}/*,
+		circlemarker: {}*/
 	},
 
 	// @method initialize(): void
